@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:ital,wght@0,200;1,200&family=Roboto:wght@400;700&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Poppins:ital,wght@0,200;1,200&family=Roboto+Slab:wght@600&family=Roboto:wght@400;700&family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    text-align: center;
+    background-color: rgb(6, 58, 72);
+    color: white;
+    line-height: 150px;
+    size: 50px;
+    padding: 20px;
+    margin: 20px;
+}
+    
+.design{
+   font-family:'Roboto Slab';
+}
+.icons{
+    position: relative;
+    text-align: right;
+    font-size:xx-large;
+    justify-content: space-between;
+    margin: 20px;
+}
+.text{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px; 
+    font-family:'Roboto Slab';
+}
+.para{
+    font-size: x-large;
+    font-family:cursive;
+}
+.box{
+    padding: 20px;
+}
+.fcontainer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    color:white;
+    
+}
+.fitem{
+    width: 800px;
+    height: 800px;
+    border:5px solid rgb(3, 114, 136);
+    background-color: rgb(1, 32, 38);
+    font-size: xx-large;
+    font-family: cursive;
+    color: white;
+
+}
+.fitem1{
+    width: 800px;
+    height: 800px;
+    border:5px solid rgb(4, 128, 153);
+    background-color: rgb(1, 32, 38);
+    font-size: xx-large;
+    font-family: cursive; 
+    color: white;
+}
+p{
+    text-align: center;
+     color: rgb(9, 9, 9);
+     font-size: xx-large;
+    font-family: cursive;
+}
+.box1{
+    padding: 20px;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgb(6, 58, 72);
+    color: white;
+    line-height: 150px;
+    size: 50px;
+    padding: 20px;
+    margin: 20px; 
+    background-image: none;
+
+}
